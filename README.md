@@ -1,6 +1,6 @@
-# Healthcare Analytics for Doctor Visits: Exploratory Data Analysis (EDA)
+# Healthcare Analytics for Doctor Visits
 
-A comprehensive exploratory data analysis and patient behavior profiling project developed as part of the **VOIS & Edunet Foundation Internship** program.
+A comprehensive exploratory data analysis and patient behavior profiling project developed as part of the **TIRTC , VOIS & Edunet Foundation Internship** program.
 
 ---
 
