@@ -22,6 +22,11 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a healthc
 
 ---
 
+## Install Librabries
+pip install pandas numpy matplotlib seaborn
+
+---
+
 ## 📊 Key Analytical Steps & Features Explored
 1. **Data Preprocessing & Cleaning:** Inspected and verified dataset structure (5,190 rows, 13 columns), confirming zero missing values and zero duplicate records. Removed redundant index columns.
 2. **Univariate Analysis:** Evaluated distributions of doctor visits, illness counts, age, and income brackets. Discovered that the majority of patients record zero visits, while illness counts heavily concentrate between 0 and 2.
