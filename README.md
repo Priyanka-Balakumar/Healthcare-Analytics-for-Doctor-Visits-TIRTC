@@ -38,11 +38,4 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a healthc
 │
 ├── 📜 README.md                     # Project Documentation
 ├── 📓 Healthcare_Analytics_EDA.ipynb  # Main Jupyter Notebook with code & visualizations
-├── 📁 outputs/                      # Saved charts and visualization figures
-│   ├── univariate_analysis.png
-│   ├── bivariate_analysis.png
-│   └── healthcare_outlier_distributions.png
-|   └── Multivariate Analysis.png
-|   └── Correlation Matrix.png
-|   └── Subgroup & High-Utilization Analysis.png
 └── 📄 requirements.txt              # Required Python packages
